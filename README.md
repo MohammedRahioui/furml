@@ -4,7 +4,7 @@
 
 # Vous devez d'abord savoir comment chacun des cinq boutons fonctionne
 1) add Lorsque vous appuyez sur le bouton Ajouter, tous les boutons peuvent être cliqués à l'exception du bouton Modifier, car il se trouve à l'étape Ajouter
-2) delete Lorsque vous appuyez sur le bouton supprimer, vous devez d'abord avoir appuyé sur pour modifier tous les boutons sur lesquels il est possible d'appuyer à l'exception du bouton ajouter car il est en phase de suppression
+2) delete Lorsque vous appuyez sur le bouton supprimer, vous devez d'abord avoir appuyé sur pour modifier[upd] tous les boutons sur lesquels il est possible d'appuyer à    l'exception du bouton ajouter car il est en phase de suppression
 3)Modifier Lorsque vous appuyez sur le bouton Modifier, vous pouvez appuyer sur tous les boutons, à l'exception du bouton Ajouter, car il est en phase de modification
 4)Lorsque vous appuyez sur le bouton Annuler, vous devez appuyer sur le bouton Modifier. Tous les boutons peuvent être enfoncés à l'exception du bouton Ajouter, car il se trouve à l'étape Annuler
 
